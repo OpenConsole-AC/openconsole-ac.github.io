@@ -1,0 +1,36 @@
+{
+"game":   { "relLoc": "index.html", "type":"cached" },
+"canvas": { "aspect": "0" },
+"ctrl":   { "loc": "https://openconsole-ac.github.io/Controller/index.html" },
+"controls": {
+  "maxPlayers": 1,
+  "keymap": [
+    { "playerId": 0,
+      "Up":    	{ "isKeyboard":true, "data":[38, "ArrowUp", "ArrowUp"] },
+      "Down":		{ "isKeyboard":true, "data":[40, "ArrowDown", "ArrowDown"] },
+      "Left":		{ "isKeyboard":true, "data":[37, "ArrowLeft", "ArrowLeft"] },
+      "Right":	{ "isKeyboard":true, "data":[39, "ArrowRight", "ArrowRight"] },
+      "Enter":	{ "isKeyboard":true, "data":[13, "Enter", "Enter"] } 
+    },
+    { "playerId": 1 },
+    { "playerId": 2 },
+    { "playerId": 3 },
+    { "playerId": 4 },
+    { "playerId": 5 },
+    { "playerId": 6 },
+    { "playerId": 7 },
+    { "playerId": 8 },
+    { "playerId": 9 },
+    { "playerId": 10 },
+    { "playerId": 11 },
+    { "playerId": 12 },
+    { "playerId": 13 },
+    { "playerId": 14 },
+    { "playerId": 15 },
+    { "playerId": 16 },
+    { "playerId": 17 },
+    { "playerId": 18 },
+    { "playerId": 19 }
+  ]
+}
+}
